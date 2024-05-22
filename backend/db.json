@@ -1,0 +1,37 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "superfunctional 1",
+      "price": 22,
+      "type": "Book",
+      "owner": "The Bioneer",
+      "image": ""
+    },
+    {
+      "id": "2",
+      "title": "nike tech",
+      "price": 63,
+      "type": "sports shoes ",
+      "owner": "Nike",
+      "image": ""
+    },
+    {
+      "id": "3",
+      "title": "nike wear sweatshirt",
+      "price": 73,
+      "type": "sports wear ",
+      "owner": "Nike",
+      "image": ""
+    },
+    {
+      "id": "4",
+      "title": "iphone 14",
+      "price": 93,
+      "type": "smartphone ",
+      "owner": "Apple",
+      "image": ""
+    }
+  ],
+  "users": []
+}
